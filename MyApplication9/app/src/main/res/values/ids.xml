@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item name="btn_save" type="id">btn_save</item>
-    <item name="et_description" type="id" />
-    <item name="et_title" type="id" />
-</resources>
